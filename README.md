@@ -1,2 +1,4 @@
-# android_alternatives
-Privacy driving choices for other Andorid ROMs
+## android alternatives
+
+#### Privacy driven choices for alternatives to Android stock on Google Pixel Phones
+
